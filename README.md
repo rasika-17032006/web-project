@@ -9,3 +9,12 @@ GourmetHub is a multi-page, responsive web application built with React, HTML, C
 - Contact: User-friendly contact form
 - Feedback: Collect user input and provide feedback
 
+##Technologies Used
+
+Front-End: React, HTML5, CSS3, JavaScript (ES6+)
+
+Architecture: Component-based design, client-side routing
+
+Design: Responsive UI, reusable components
+
+
